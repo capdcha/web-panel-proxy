@@ -23,7 +23,7 @@ UNIT = 'web-panel-proxy-web-update.service'
 # ============================ FORK SETTINGS ============================
 # Change this line to your own fork. Everything the updater installs is
 # cloned from exactly this repository — nothing else.
-REPO = 'https://github.com/POLESNIESOVETI12/web-panel-proxy.git'
+REPO = 'https://github.com/capdcha/web-panel-proxy.git'
 # =======================================================================
 
 UPDATER = '/usr/local/sbin/web-panel-proxy-update'
