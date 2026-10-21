@@ -19,4 +19,5 @@ wpp_update.py:
 KILL_SWITCH + проверки в auto_status(), set_auto_update(), start_update(automatic=True), run_update(), run_auto_update()
 
 wpp_ui.py:1135:
+
 automatic.enabled!==false → automatic.enabled===true (в componentView)
