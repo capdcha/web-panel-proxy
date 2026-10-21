@@ -4386,8 +4386,8 @@ echo "  ${PASS}"
 echo
 fi
 echo "YouTube:"
-echo "  https://www.youtube.com/@POLESNIESOVETI12"
+echo "  https://www.youtube.com/@NULL"
 echo
 echo "GitHub:"
-echo "  https://github.com/POLESNIESOVETI12/web-panel-proxy"
+echo "  https://github.com/capdcha/web-panel-proxy"
 echo "============================================================"
